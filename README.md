@@ -6,6 +6,6 @@ please put a description here
 | Role  | Person |
 | ------------- | ------------- |
 | Driver  | [Paul Stacey](https://github.com/pgstacey)  |
-| Approvers  | [Cable Green?]  |
-| Contributors | Add yourselves here |
+| Approvers  | [Cable Green, Scott Seethaler, Ryan Merkley]  |
+| Contributors | [Jane Park] |
 | Informed | Add yourselves here |
