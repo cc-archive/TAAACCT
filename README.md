@@ -7,5 +7,5 @@ please put a description here
 | ------------- | ------------- |
 | Driver  | [Paul Stacey](https://github.com/pgstacey)  |
 | Approvers  | [Cable Green, Scott Seethaler, Ryan Merkley]  |
-| Contributors | [Jane Park] |
+| Contributors | [Jane Park](https://github.com/janeatcc) |
 | Informed | Add yourselves here |
