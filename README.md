@@ -8,4 +8,4 @@ please put a description here
 | Driver  | [Paul Stacey](https://github.com/pgstacey)  |
 | Approvers  | [Cable Green, Scott Seethaler, Ryan Merkley]  |
 | Contributors | [Jane Park](https://github.com/janeatcc) |
-| Informed | Add yourselves here |
+| Informed | [Diane Peters](https://github.com/peterspdx) |
